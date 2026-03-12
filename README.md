@@ -131,44 +131,11 @@ Complete observability stack for real-time infrastructure and application monito
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Highlights
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=syed-ayaan-alii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ayaan-alii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=syed-ayaan-alii&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=syed-ayaan-alii&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-| 🏏 State-Level Cricket Player | 🎓 B.Tech CSE — CGPA 7.49/10 | ☁️ AWS Cloud Practitioner in Progress |
+| 🏏 State-Level Cricket Player | 🎓 B.Tech CSE — CGPA 7.49/10 | ☁️ AWS Certification — In Progress |
 |:---:|:---:|:---:|
-| Represented Madhya Pradesh at the state level — strong teamwork, strategy & perseverance | Sagar Institute of Research and Technology - Excellence, Bhopal | Building toward AWS certification |
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Ayaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syed-ayaan-alii&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+| Represented Madhya Pradesh at the state level — teamwork, strategy & perseverance under pressure | Sagar Institute of Research and Technology - Excellence, Bhopal (2021–2025) | Actively building toward AWS Cloud Practitioner certification |
 
 ---
 
