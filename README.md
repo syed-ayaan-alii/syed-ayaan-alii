@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Syed%20Ayaan%20Ali&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Automation%20Enthusiast&descAlignY=56&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=☁️+Building+Scalable+Cloud+Infrastructure;🐳+Containerizing+with+Docker+%26+Kubernetes;⚙️+Automating+Deployments+via+CI%2FCD;📊+Monitoring+with+Prometheus+%26+Grafana;🚀+IaC+with+Terraform" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Cloud+Infrastructure;Containerizing+with+Docker+%26+Kubernetes;Automating+Deployments+via+CI%2FCD;Monitoring+with+Prometheus+%26+Grafana;Infrastructure+as+Code+with+Terraform" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ayaan-ali)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syed-ayaan-alii)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.ayaan1107@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_7000212793-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917000212793)
 
 </div>
 
@@ -37,7 +34,7 @@ focus_areas:
   - Monitoring & Observability (Prometheus & Grafana)
 
 currently:
-  - Completing my B.Tech degree
+  - Actively seeking full-time DevOps Engineer roles
   - Building cloud-native projects
   - Exploring GitOps workflows with ArgoCD
 
@@ -135,7 +132,7 @@ Complete observability stack for real-time infrastructure and application monito
 
 | 🏏 State-Level Cricket Player | 🎓 B.Tech CSE — CGPA 7.49/10 | ☁️ AWS Certification — In Progress |
 |:---:|:---:|:---:|
-| Represented Madhya Pradesh at the state level — teamwork, strategy & perseverance under pressure | Sagar Institute of Research and Technology - Excellence, Bhopal (2021–2025) | Actively building toward AWS Cloud Practitioner certification |
+| Represented Madhya Pradesh at the state level — teamwork, strategy & perseverance under pressure | Sagar Institute of Research and Technology - Excellence, Bhopal (Graduated 2025) | Actively building toward AWS Cloud Practitioner certification |
 
 ---
 
