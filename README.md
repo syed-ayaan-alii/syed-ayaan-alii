@@ -1,187 +1,151 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Syed%20Ayaan%20Ali&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Automation%20Enthusiast&descAlignY=56&descSize=18&animation=fadeIn" />
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║            DEVOPS ENGINEER PROFILE — SYED AYAAN ALI                 ║
-║                  system initialized... ready.                        ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Cloud+Infrastructure;Containerizing+with+Docker+%26+Kubernetes;Automating+Deployments+via+CI%2FCD;Monitoring+with+Prometheus+%26+Grafana;Infrastructure+as+Code+with+Terraform" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=+%24+whoami+--verbose;+%24+kubectl+get+skills+--all-namespaces;+%24+terraform+plan+--target%3Dcareer;+%24+docker+inspect+syed-ayaan-ali;+%24+prometheus+query%3A+uptime%7Bengineer%3D%22ayaan%22%7D" alt="Typing SVG" />
+<br/>
+
+<!-- Contact Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ayaan-ali)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syed-ayaan-alii)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.ayaan1107@gmail.com)
 
 </div>
 
 ---
 
-## $ whoami
+## 👨‍💻 About Me
 
-```bash
-$ whoami --verbose
+```yaml
+name: Syed Ayaan Ali
+role: DevOps Engineer
+location: Bhopal, Madhya Pradesh, India
+education: B.Tech in Computer Science & Engineering (2021–2025)
+             Sagar Institute of Research and Technology - Excellence
 
-{
-  "name"      : "Syed Ayaan Ali",
-  "role"      : "DevOps Engineer",
-  "location"  : "Bhopal, Madhya Pradesh, India",
-  "education" : "B.Tech CSE — SIRT Excellence (Graduated 2025)",
-  "status"    : "OPEN_TO_WORK ✅",
-  "contact"   : "ali.ayaan1107@gmail.com",
-  "interests" : ["Cloud Infrastructure", "Container Orchestration",
-                 "CI/CD Automation", "GitOps", "Observability"]
-}
+focus_areas:
+  - Cloud Infrastructure (AWS)
+  - Container Orchestration (Docker & Kubernetes)
+  - Infrastructure as Code (Terraform)
+  - CI/CD Pipeline Automation
+  - Monitoring & Observability (Prometheus & Grafana)
 
-> Process completed with exit code 0
+currently:
+  - Actively seeking full-time DevOps Engineer roles
+  - Building cloud-native projects
+  - Exploring GitOps workflows with ArgoCD
+
+fun_fact: "State-Level Cricket Player 🏏 — Strategy on the pitch, automation in the pipeline."
 ```
 
 ---
 
-## $ kubectl get skills --all-namespaces
+## 🛠️ Tech Stack & Tools
 
-```
-NAMESPACE          NAME                    STATUS    PROFICIENCY   AGE
-─────────────────────────────────────────────────────────────────────
-cloud/aws          EC2                     Running   ████████░░    Intermediate
-cloud/aws          S3                      Running   ████████░░    Intermediate
-cloud/aws          IAM                     Running   ███████░░░    Intermediate
-cloud/aws          VPC                     Running   ███████░░░    Intermediate
-containers         Docker                  Running   █████████░    Advanced
-containers         Kubernetes              Running   ████████░░    Intermediate
-containers         ArgoCD                  Running   ██████░░░░    Familiar
-iac                Terraform               Running   ████████░░    Intermediate
-cicd               GitHub-Actions          Running   █████████░    Advanced
-cicd               Git                     Running   █████████░    Advanced
-monitoring         Prometheus              Running   ███████░░░    Intermediate
-monitoring         Grafana                 Running   ███████░░░    Intermediate
-languages          Python                  Running   ███████░░░    Intermediate
-languages          Bash                    Running   ███████░░░    Intermediate
-languages          YAML                    Running   █████████░    Advanced
-─────────────────────────────────────────────────────────────────────
-15 skills running, 0 errors, 0 crashloopbackoffs
-```
+<div align="center">
 
----
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## $ docker ps --projects
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-```
-CONTAINER ID   IMAGE                              STATUS          PORTS
-─────────────────────────────────────────────────────────────────────────────────────
+### ⚙️ IaC & CI/CD
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-a1b2c3d4e5f6   cloud-native-microservices:v1.0   Up  ✅ LIVE     :80/HTTP
-                 ├─ Stack   : AWS · Docker · Kubernetes · Terraform · ArgoCD
-                 ├─ CI/CD   : GitHub Actions → DockerHub → ArgoCD → K8s
-                 ├─ Infra   : Terraform (remote state: S3 + DynamoDB lock)
-                 └─ Feature : GitOps sync, Ingress Controller, multi-service mesh
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-─────────────────────────────────────────────────────────────────────────────────────
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-b2c3d4e5f6a7   cicd-pipeline-e2e:latest          Up  ✅ LIVE     :443/HTTPS
-                 ├─ Stack   : GitHub Actions · Docker · Terraform
-                 ├─ CI      : Unit Tests → Linting → Security Scan → Build
-                 ├─ CD      : Terraform provision → Docker deploy → Verify
-                 └─ Feature : Automated rollback, repeatable environments
-
-─────────────────────────────────────────────────────────────────────────────────────
-
-c3d4e5f6a7b8   monitoring-stack:stable            Up  ✅ LIVE     :3000/GRAFANA
-                 ├─ Stack   : Prometheus · Grafana · AlertManager
-                 ├─ Metrics : CPU · Memory · Pod Health · Latency · Uptime
-                 ├─ Alerts  : PagerDuty-style thresholds configured
-                 └─ Feature : Custom dashboards, request rate tracking
-
-─────────────────────────────────────────────────────────────────────────────────────
-3 containers running, 0 exited, 0 paused
-```
+</div>
 
 ---
 
-## $ terraform plan --target=experience
+## 🚀 Featured Projects
 
-```hcl
-# KUBICL — DevOps Engineer Intern
-# Duration: February 2025 → May 2025
+### 🌐 Cloud-Native Microservices Deployment
+> **AWS · Docker · Kubernetes · Terraform · GitHub Actions · ArgoCD**
 
-resource "experience" "kubicl_intern" {
+A production-grade microservices architecture deployed on AWS with full GitOps automation.
 
-  responsibilities = [
-    "Provisioned cloud infrastructure using Terraform",
-    "Deployed containerized apps via Docker + Kubernetes",
-    "Built & optimized CI/CD pipelines with GitHub Actions",
-    "Set up Prometheus + Grafana monitoring & observability",
-    "Automated deployment workflows end-to-end",
-  ]
-
-  tools_used = [
-    "AWS", "Docker", "Kubernetes",
-    "Terraform", "Git", "GitHub Actions"
-  ]
-}
-
-Plan: 1 role added, 0 changed, 0 destroyed.
-```
+- 🐳 **Containerized** multiple microservices using Docker, images pushed to a centralized registry
+- 🏗️ **Provisioned AWS infrastructure** via Terraform with remote state in S3 + DynamoDB locking
+- ☸️ **Deployed on Kubernetes** with Ingress Controller for unified HTTP entry point
+- 🔄 **CI automation** via GitHub Actions — build, test & publish Docker images on every push
+- 🔁 **GitOps with ArgoCD** for automated Kubernetes deployment synchronization from GitHub
 
 ---
 
-## $ prometheus query: uptime{engineer="ayaan"}
+### ⚡ End-to-End CI/CD Pipeline
+> **GitHub Actions · Docker · Terraform**
 
-```
-METRIC                        VALUE      THRESHOLD   STATUS
-──────────────────────────────────────────────────────────────
-infrastructure_uptime         99.9%      > 99%       🟢 HEALTHY
-deployment_success_rate       100%       > 95%       🟢 HEALTHY
-pipeline_automation           ENABLED    ENABLED     🟢 HEALTHY
-cloud_cost_optimization       ACTIVE     ACTIVE      🟢 HEALTHY
-team_collaboration_score      HIGH       > MED       🟢 HEALTHY
-cricket_performance           STATE LVL  > DISTRICT  🟢 HEALTHY
-──────────────────────────────────────────────────────────────
-Overall System Health: 🟢 ALL SYSTEMS OPERATIONAL
-```
+Fully automated pipeline from code commit to cloud deployment.
+
+- 📦 **Dockerized** the application with automated image builds triggered on every commit
+- ✅ **CI workflow** with unit tests, linting, and security scans before deployment
+- 🛠️ **Terraform-driven** infrastructure provisioning ensuring consistent, repeatable environments
 
 ---
 
-## $ cat /etc/pipeline.conf
+### 📊 Monitoring & Alerting Stack
+> **Prometheus · Grafana · AlertManager**
 
-```
-  ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌──────────┐     ┌─────────┐
-  │  CODE   │────▶│  BUILD  │────▶│  TEST   │────▶│  DEPLOY  │────▶│MONITOR  │
-  │         │     │         │     │         │     │          │     │         │
-  │ GitHub  │     │ Docker  │     │ Linting │     │Terraform │     │Prometh. │
-  │   Git   │     │  Build  │     │  Unit   │     │   K8s    │     │ Grafana │
-  │  Push   │     │  Image  │     │  Scan   │     │  ArgoCD  │     │ Alerts  │
-  └─────────┘     └─────────┘     └─────────┘     └──────────┘     └─────────┘
-       │                │               │                │               │
-    trigger          package          validate        provision        observe
-```
+Complete observability stack for real-time infrastructure and application monitoring.
+
+- 📥 **Deployed Prometheus & Grafana** for metrics collection, storage, and visualization
+- 🔔 **Configured AlertManager** with thresholds for CPU, memory usage, and pod health
+- 📈 **Custom Grafana dashboards** tracking latency, resource utilization, uptime, and request rates
 
 ---
 
-## $ git log --connect
+## 💼 Experience
 
-```bash
-$ git log --connect --oneline
+### 🏢 KUBICL — DevOps Engineer Intern
+**`February 2025 – May 2025`**
 
-a1b2c3d  LinkedIn  →  https://linkedin.com/in/syed-ayaan-ali
-b2c3d4e  GitHub    →  https://github.com/syed-ayaan-alii
-c3d4e5f  Email     →  ali.ayaan1107@gmail.com
+- Hands-on with **AWS, Docker, Kubernetes, Terraform, Git & GitHub Actions** to automate deployment workflows
+- Provisioned and managed **cloud infrastructure using Terraform** for scalable, consistent environments
+- Deployed applications via **Docker containers** and orchestrated workloads on **Kubernetes clusters**
+- Built and optimized **CI/CD pipelines** for continuous integration and automated deployment
+- Set up **monitoring & observability** using Prometheus and Grafana for proactive performance tracking
 
-> Open to full-time DevOps / Cloud Engineer roles
-> Available for immediate joining
-```
+---
+
+## 🏆 Highlights
+
+| 🏏 State-Level Cricket Player | 🎓 B.Tech CSE — CGPA 7.49/10 | ☁️ AWS Certification — In Progress |
+|:---:|:---:|:---:|
+| Represented Madhya Pradesh at the state level — teamwork, strategy & perseverance under pressure | Sagar Institute of Research and Technology - Excellence, Bhopal (Graduated 2025) | Actively building toward AWS Cloud Practitioner certification |
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   "Automate everything. Monitor always.                  ║
-║                        Deploy with confidence."          ║
-╚══════════════════════════════════════════════════════════╝
-```
+### 💬 Let's Connect & Build Something Great!
 
-![Profile Views](https://komarev.com/ghpvc/?username=syed-ayaan-alii&color=00FF41&style=flat-square&label=profile+views)
+*"Automate everything. Monitor always. Deploy with confidence."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=syed-ayaan-alii&color=00d9ff&style=for-the-badge&label=Profile+Views)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
