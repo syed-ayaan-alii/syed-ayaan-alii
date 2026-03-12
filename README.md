@@ -23,7 +23,7 @@
 name: Syed Ayaan Ali
 role: DevOps Engineer
 location: Bhopal, Madhya Pradesh, India
-education: B.Tech in Computer Science & Engineering (2021–2025)
+education: B.Tech in Computer Science & Engineering (Graduated 2025)
              Sagar Institute of Research and Technology - Excellence
 
 focus_areas:
