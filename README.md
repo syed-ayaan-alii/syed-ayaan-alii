@@ -130,9 +130,9 @@ Complete observability stack for real-time infrastructure and application monito
 
 ## 🏆 Highlights
 
-| 🏏 State-Level Cricket Player | 🎓 B.Tech CSE — CGPA 7.49/10 | ☁️ AWS Certification — In Progress |
+| 🏏 State-Level Cricket Player | 🎓 B.Tech CSE — CGPA 7.49/10 | 
 |:---:|:---:|:---:|
-| Represented Madhya Pradesh at the state level — teamwork, strategy & perseverance under pressure | Sagar Institute of Research and Technology - Excellence, Bhopal (Graduated 2025) | Actively building toward AWS Cloud Practitioner certification |
+| Represented Madhya Pradesh at the state level — teamwork, strategy & perseverance under pressure | Sagar Institute of Research and Technology - Excellence, Bhopal (Graduated 2025) | 
 
 ---
 
